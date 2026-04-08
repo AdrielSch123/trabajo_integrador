@@ -1,4 +1,4 @@
-# Mi proyecto Web (cuatrimestral)
+# Mi proyecto Web de manual de supervivencia a la univercidad (cuatrimestral)
 
 ## Descripción
 Este proyecto se trata de un manual de supervivencia para la univercidad.
