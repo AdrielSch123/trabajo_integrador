@@ -1,13 +1,15 @@
 # Mi proyecto Web (cuatrimestral)
 
 ## Descripción
-Este proyecto se trata de una página web que .....
+Este proyecto se trata de un manual de supervivencia para la univercidad.
 
 ## Contenido
 - Menú principal
-- Información general del tema 
-- Imágenes sobre ...
-- Videos sobre ...
+- Consejos básicos
+- Imágen de personas estudiando
+- Kit del estudiante
+- Formulario de contacto
+- Enlace a la UTN reconquista
 
 ## Autor
 Adriel Scheidegger
