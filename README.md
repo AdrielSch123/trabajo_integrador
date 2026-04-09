@@ -9,7 +9,8 @@ Este proyecto se trata de un manual de supervivencia para la univercidad.
 - Imágen de personas estudiando
 - Kit del estudiante
 - Formulario de contacto
-- Enlace a la UTN reconquista
+- Enlace a la pagina de la UTN reconquista
+- Enlace al instagram de la UTN reconquista
 
 ## Autor
 Adriel Scheidegger
