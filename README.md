@@ -18,3 +18,5 @@ Adriel Scheidegger
 ![Escritorio 1](capturas/desktop-1.png)
 ![Escritorio 2](capturas/desktop-2.png)
 ![Escritotio 3](capturas/desktop-3.png)
+### vista celular
+![celular](capturas/mobile-1.png)
