@@ -14,3 +14,7 @@ Este proyecto se trata de un manual de supervivencia para la univercidad.
 
 ## Autor
 Adriel Scheidegger
+### Vista escritorio
+![Escritorio 1](capturas/desktop-1.png)
+![Escritorio 2](capturas/desktop-2.png)
+![Escritotio 3](capturas/desktop-3.png)
